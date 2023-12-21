@@ -1,0 +1,66 @@
+/* .about{  */
+    /* height: 100%; */
+    /* background-color: black; */
+    /* border: solid 1px; */
+/* } */
+/* 
+.isi{
+    text-align: justify;
+} */
+
+.template{
+    background-color: black;
+    /* border:solid white; */
+    border-radius: 20px;
+    /* height: 90vh; */
+}
+
+.about{
+    /* border: solid 1px white; */
+    height: 100%;
+}
+
+.row{
+    height: 100%;
+    
+}
+
+.deskripsi{
+    /* border: solid 1px pink; */
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+/* .manfaat{
+    border: solid 1px red;
+} */
+
+
+
+.text{
+    text-align: justify;
+}
+
+.img_about{
+    width: 280px;
+}
+
+.gambar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: solid 1px blue; */
+}
+
+.gambar img{
+    margin-top: 20px;
+}
+
+.tentang{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
